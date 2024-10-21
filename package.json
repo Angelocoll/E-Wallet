@@ -2,6 +2,7 @@
   "name": "wallet-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ditt-användarnamn.github.io/E-Wallet/",
   "type": "module",
   "scripts": {
     "dev": "vite",
